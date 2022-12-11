@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/varu1303/RickNMorty#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
